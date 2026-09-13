@@ -11,6 +11,11 @@
 
 ![](https://streak-stats.demolab.com/?user=krishnapriya_1102&theme=dark&hide_border=false)<br/>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnapriya_1102) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
